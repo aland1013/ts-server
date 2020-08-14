@@ -30,7 +30,6 @@ var LoginController = /** @class */ (function () {
         req.session = null;
         res.redirect('/');
     };
-    ;
     __decorate([
         decorators_1.get('/login'),
         __metadata("design:type", Function),
